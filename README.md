@@ -71,14 +71,10 @@ Tested on CoppaliaSim Edu and a 3-dof real robotic arm
 
 ## 🧪 How to Run
 
-```bash
-python main.py
+python testPickAndPlace.py
 Use --printonly if you want to test without CoppeliaSim:
 
-bash
-Copy
-Edit
-python main.py --printonly
+python testPickAndPlace.py --printonly
 Make sure CoppeliaSim is running and the appropriate robot scene is loaded.
 
 📌 Notes
